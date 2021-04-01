@@ -1,7 +1,7 @@
 {
   "appPackage": "",
-  "isLive": true,
-  "newAppPackage": "",
+  "isLive": false,
+  "newAppPackage": "com.tsgame.scary.call.teacher3d.simulator.prank",
   "isAdsShow": true,
   "inter": "ca-app-pub-9913928407449998/7893587645",
   "fb_inter": "1",
